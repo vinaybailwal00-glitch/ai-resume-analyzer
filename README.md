@@ -18,8 +18,10 @@ An AI-powered resume screening application built with Python and Streamlit.
 
 ## Live Demo
 
-(Add Streamlit Link Here)
+(https://ai-resume-analyzer-jnjde4lcbbbcuczc4d7xga.streamlit.app/)
 
 ## Author
+Vinay Bailwal
+MBA in Artificial Intelligence
 
 Vinay Bailwal
